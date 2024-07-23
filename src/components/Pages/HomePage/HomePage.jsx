@@ -4,7 +4,7 @@ export default function HomePage(){
         <>
         <div className="homepage">
         <h1>Welcome to Our College</h1>
-        <img src="./sec.jpg"></img>
+        <img src="/sec.jpg"></img>
             </div>
          
    
